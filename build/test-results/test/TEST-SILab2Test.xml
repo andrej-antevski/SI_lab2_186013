@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="SILab2Test" tests="2" skipped="0" failures="0" errors="0" timestamp="2020-06-11T10:39:00" hostname="DESKTOP-Q7F06O4" time="0.034">
+  <properties/>
+  <testcase name="everyPath()" classname="SILab2Test" time="0.03"/>
+  <testcase name="multipleCondition()" classname="SILab2Test" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
